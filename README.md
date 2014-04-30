@@ -45,4 +45,4 @@ Official wiki :
 -------------------------
 https://en.bitcoin.it/wiki/P2Pool
 
-[Quarkbar]:http://Quarkbar.org
+[Quarkbar]:https://bitcointalk.org/index.php?topic=587457.0
